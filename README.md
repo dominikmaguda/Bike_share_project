@@ -8,7 +8,8 @@ Key Project Steps
 
 1. Data Preparation
 2. Database Management & SQL Analysis
-3. Collaborative Development & Documentation
+3. Visualization in Tableau
+4. Collaborative Development & Documentation
 
 Skills Demonstrated
 
